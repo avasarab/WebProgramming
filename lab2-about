@@ -10,4 +10,7 @@ HTML
   <p>The purpose of this lab is to get practice using tables and using links in tables.</p>
   <table>
   <td>
-    <a href="
+    <a href="lab2-home.html">Lab 2 Home</a>
+  </td>
+  <td>
+  <a href="mailto:14avasarab@gmail.com">Send me an email!</a>
