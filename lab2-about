@@ -10,11 +10,8 @@ HTML
   <h1>About Lab 2</h1>
   <p>The purpose of this lab is to get practice using tables and using links in tables.</p>
   <table>
-  <caption>
-  Weblinks
-  </caption>
   <td>
-    <a href="lab2-home.html">Lab 2 Home</a>
+    <a href="WebProgramming-main/lab2-home.html">Lab 2 Home</a>
   </td>
   <td>
   <a href="mailto:14avasarab@gmail.com">Send me an email!</a>
