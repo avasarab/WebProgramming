@@ -2,6 +2,7 @@
 <html lang="en-US">
 <head>
   <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width">
   <title>Lab 2 - Home</title>
 </head>
 <body> 
@@ -9,7 +10,7 @@
   <p>In this weeks lab we will be reusing our repositories from week 1 and adding 2 HTML files to our Web Programming folder. We also will be adding a table with hyperlinks that will take the user to another page. Finally we will be adding external pages using relative and absolute paths.</p>
   <table>
   <td>
-    <a href="lab2-about.html"Lab 2 About</a>
+    <a href="WebProgramming-main/lab2-about.html"Lab 2 About</a>
   </td>
   <td>
     <a href="https://www.mozilla.org/en-US/">Mozilla Home Page</a>
@@ -20,3 +21,6 @@
   <td>
     <a href="https://www.tri-c.edu/programs/information-technology/index.html">Tri-C IT Home Page</a>
   </td>
+  </table>
+</body>
+<html>
