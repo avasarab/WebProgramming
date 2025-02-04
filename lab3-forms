@@ -1,11 +1,11 @@
 <!DOCTYPE html> 
 <html lang="en-US"> 
 <head> 
-  <meta charset="utf-8"/> 
+  <meta charset="utf-8"> 
   <title>lab3-forms</title> 
 </head> 
 <body> 
-<h1>Coffee Order Form</h1>, 
+<h1>Coffee Order Form</h1> 
   <form action ="https://www.w3schools.com/action_page.php" method="get">
     <p>
     <label for="name">Name:</label>
@@ -62,7 +62,6 @@
     <p class="button">
     <button type="submit">Submit Order</button>
     </p>
-</fieldset>
-  </form> 
-</body>  
-</html>
+  </fieldset>
+</section>
+</form> 
