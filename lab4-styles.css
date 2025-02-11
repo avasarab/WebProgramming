@@ -1,8 +1,26 @@
 body {
-  background-color: pink;
-  font-family: Arial;
-}
+    background-color: pink;
+    font-family: Arial;
+  }
 h1{
-  color: lime green;
+    color: navy;
+    text-align: center; 
 }
-  
+p{
+    color: fuchsia;
+    padding: 10px;
+}
+li{
+    color: purple;
+}
+ul li::before {
+    color:yellow;
+}
+a{
+    color: blue
+}
+div{
+    border: 1px solid black;
+    background-color: lightgray; text-align: center;
+    padding: 15px;
+}
