@@ -23,6 +23,7 @@ li::before {
 }
 a {
     color: blue;
+    text-decoration: underline;
 }
 a:hover {
     text-decoration: none;
