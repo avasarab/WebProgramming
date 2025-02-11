@@ -10,14 +10,22 @@ p{
     color: fuchsia;
     padding: 10px;
 }
+ul{
+    list-style-type: none;
+    padding-left: 0; 
+}
 li{
     color: purple;
 }
-ul li::before {
-    color:yellow;
+li::before{
+    content: "• ";
+    color: yellow;
 }
 a{
     color: blue
+}
+a:hover{
+    text-decoration: none;
 }
 div{
     border: 1px solid black;
