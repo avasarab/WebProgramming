@@ -22,7 +22,7 @@ li::before{
     color: yellow;
 }
 a{
-    color: blue
+    color: blue;
 }
 a:hover{
     text-decoration: none;
